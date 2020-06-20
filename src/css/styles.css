@@ -1,0 +1,16 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+.card-pokemon {
+  width: 440px;
+  height: 440px;
+  box-shadow: 0px 0px 15px 6px #e3e3e378;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 150px;
+  border-bottom-right-radius: 20px;
+}
